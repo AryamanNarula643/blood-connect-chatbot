@@ -18,15 +18,6 @@ Excel-based data storage using openpyxl (no database setup required)
 
 Local deployment with minimal configuration
 
-Project Structure
-blood-connect-chatbot/
-├── frontend/
-│   └── index.html
-├── backend/
-│   ├── app.py
-│   ├── donations.xlsx
-│   ├── requests.xlsx
-│   └── camps.xlsx
 
 How to Run
 
